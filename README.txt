@@ -1,0 +1,4 @@
+
+Task : Its a machine comeprehension task from semeval 2018 
+
+It uses skip thought vectors for sentence representation.
